@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../pd"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pd"
+	}
+}
